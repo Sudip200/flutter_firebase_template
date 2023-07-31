@@ -10,6 +10,7 @@ import 'package:firebasestarter/features/auth/presentation/pages/home.dart';
 import 'package:firebasestarter/generated/l10n.dart';
 
 import 'core/presentation/providers/providers.dart';
+
 import 'core/presentation/res/themes.dart';
 
 class App extends StatelessWidget {
